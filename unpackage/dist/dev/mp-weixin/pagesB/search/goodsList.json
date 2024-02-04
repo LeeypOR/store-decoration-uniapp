@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "fixed-navigation": "/components/fixedNavigation",
+    "no-data": "/components/noData",
+    "goods-com": "/pagesB/components/walfGoods"
+  }
+}

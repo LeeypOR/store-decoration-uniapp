@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "refund-address": "/pagesA/afterSales/components/refundAddress",
+    "refund-describe-btn": "/pagesA/afterSales/components/refundDescribeBtn",
+    "refund-state-describe": "/pagesA/afterSales/components/refundStateDescribe",
+    "refund-state": "/pagesA/afterSales/components/refundState",
+    "shop-card": "/components/shopCard"
+  }
+}

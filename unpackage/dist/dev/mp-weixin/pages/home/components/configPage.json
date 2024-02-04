@@ -1,0 +1,29 @@
+{
+  "component": true,
+  "usingComponents": {
+    "my-notice": "/pages/home/components/myNotice/index",
+    "official-accounts": "/pages/home/components/officialAccounts/index",
+    "parse-text": "/pages/home/components/parseText/index",
+    "divide": "/pages/home/components/divide/index",
+    "coupon": "/pages/home/components/coupon/index",
+    "my-article": "/pages/home/components/myArticle/index",
+    "header-swiper": "/pages/home/components/headerSwiper",
+    "small-img": "/pages/home/components/smallImg",
+    "title-text": "/pages/home/components/titleText/index",
+    "other-goods": "/pages/home/components/otherGoods",
+    "search": "/pages/home/components/search/index",
+    "goods-com": "/pages/home/components/goods/index",
+    "limit-kill": "/pages/home/components/limitedKill/index",
+    "navigation": "/pages/home/components/navigation/index",
+    "video-module": "/pages/home/components/video/index",
+    "scene-video": "/pages/home/components/sceneVideo/index",
+    "scene-special": "/pages/home/components/sceneSpecial/index",
+    "collage-goods": "/pages/home/components/collageGoods/index",
+    "magic": "/pages/home/components/magic/index",
+    "sec-kill": "/pages/home/components/secondsKill/index",
+    "discount": "/pages/home/components/discount/index",
+    "suspension": "/pages/home/components/suspension/index",
+    "live-broadcast": "/pages/home/components/liveBroadcast/index",
+    "points-mall": "/pages/home/components/pointsMall/index"
+  }
+}

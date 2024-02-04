@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "我的订单",
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-input": "/node-modules/uview-ui/components/u-input/u-input",
+    "u-tabs": "/node-modules/uview-ui/components/u-tabs/u-tabs",
+    "u-loadmore": "/node-modules/uview-ui/components/u-loadmore/u-loadmore",
+    "no-data": "/components/noData",
+    "shop-card": "/components/shopCard",
+    "order-btn": "/components/orderBtn"
+  }
+}

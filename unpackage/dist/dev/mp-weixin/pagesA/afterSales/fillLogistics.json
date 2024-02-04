@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-popup": "/node-modules/uview-ui/components/u-popup/u-popup",
+    "shop-card": "/components/shopCard"
+  }
+}

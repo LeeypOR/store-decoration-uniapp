@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "goods-com": "/pagesB/components/walfGoods",
+    "no-data": "/components/noData"
+  }
+}

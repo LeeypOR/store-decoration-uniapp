@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "index-u-waterfall-left": "/pages/home/components/myArticle/index-u-waterfall-left",
+    "index-u-waterfall-right": "/pages/home/components/myArticle/index-u-waterfall-right",
+    "u-waterfall": "/node-modules/uview-ui/components/u-waterfall/u-waterfall",
+    "card-list": "/pages/home/components/myArticle/cardList"
+  }
+}

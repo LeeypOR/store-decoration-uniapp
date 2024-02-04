@@ -1,0 +1,1 @@
+<view class="data-v-f4951bce"><block wx:if="{{dataInfo.badgeType==1}}"><image class="{{['data-v-f4951bce','g-suspension-img',shape=='radius'?'imgRadius':'']}}" style="{{'width:'+($root.m0)+';'+('height:'+($root.m1)+';')}}" src="{{dataInfo.imageUrl}}" mode="aspectFill" data-event-opts="{{[['tap',[['action',['$event']]]]]}}" bindtap="__e"></image></block></view>

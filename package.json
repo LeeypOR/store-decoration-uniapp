@@ -1,0 +1,31 @@
+{
+  "name": "uniapp-jpcg",
+  "version": "1.0.0",
+  "description": "uni-app 酒店日期选择插件",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint --init",
+    "lint": "eslint ./* --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://sd.cicd.vpclub.cn:9443/gitlab/cmpc/uniapp-jpcg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "uni-request": "^1.0.2",
+    "uview-ui": "^1.8.4",
+    "vue": "^2.6.12",
+    "vuex": "^3.6.2"
+  },
+  "--minimize": {
+    "dev:mp-weixin": "cross-env NODE_ENV=development UNI_PLATFORM=mp-weixin vue-cli-service uni-build --watch --minimize"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^8.0.3"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-tabs": "/node-modules/uview-ui/components/u-tabs/u-tabs",
+    "u-mask": "/node-modules/uview-ui/components/u-mask/u-mask",
+    "no-data": "/components/noData",
+    "coupon-com": "/pagesA/components/coupon"
+  }
+}

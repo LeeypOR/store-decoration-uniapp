@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-loadmore": "/node-modules/uview-ui/components/u-loadmore/u-loadmore",
+    "shar-popup": "/pagesB/distribution/compontents/sharePopupcopy",
+    "no-data": "/components/noData"
+  }
+}

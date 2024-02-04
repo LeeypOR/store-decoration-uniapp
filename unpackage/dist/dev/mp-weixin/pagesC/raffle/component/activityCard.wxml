@@ -1,0 +1,1 @@
+<view class="g-activity-card data-v-6d1cff16" style="{{$root.s0}}"><view class="title u-flex data-v-6d1cff16" style="{{$root.s1}}">{{title}}</view><view class="box u-flex data-v-6d1cff16"><slot></slot></view></view>

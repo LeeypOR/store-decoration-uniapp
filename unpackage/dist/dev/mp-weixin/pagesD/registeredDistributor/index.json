@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-checkbox": "/node-modules/uview-ui/components/u-checkbox/u-checkbox",
+    "u-select": "/node-modules/uview-ui/components/u-select/u-select"
+  }
+}

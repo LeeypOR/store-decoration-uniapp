@@ -1,0 +1,11 @@
+{
+  "component": true,
+  "usingComponents": {
+    "paySuccess-fall-com-right": "/pagesA/shop/paySuccess-fall-com-right",
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "goods-card": "/components/goodsCard",
+    "draw-popup": "/pagesA/drawPopup/index",
+    "fall-com": "/pagesA/components/falls",
+    "vip-popup": "/components/vipPopup"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "goods-search": "/pages/home/components/search/goodsSearch"
+  }
+}

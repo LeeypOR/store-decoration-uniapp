@@ -1,0 +1,11 @@
+{
+  "component": true,
+  "usingComponents": {
+    "index-u-waterfall-left": "/pagesB/goodsList/index-u-waterfall-left",
+    "index-u-waterfall-right": "/pagesB/goodsList/index-u-waterfall-right",
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-waterfall": "/node-modules/uview-ui/components/u-waterfall/u-waterfall",
+    "u-skeleton": "/node-modules/uview-ui/components/u-skeleton/u-skeleton",
+    "no-data": "/components/noData"
+  }
+}

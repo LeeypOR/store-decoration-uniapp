@@ -1,0 +1,26 @@
+{
+  "usingComponents": {
+    "goodsDetail-fall-com-right": "/pagesA/shop/goodsDetail-fall-com-right",
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-parse": "/node-modules/uview-ui/components/u-parse/u-parse",
+    "u-popup": "/node-modules/uview-ui/components/u-popup/u-popup",
+    "config-page": "/pages/home/components/configPage",
+    "fixed-navigation": "/components/fixedNavigation",
+    "goods-head": "/pagesA/active/goodsHead",
+    "half-head": "/pagesA/active/halfHead",
+    "vip-head": "/pagesA/active/vipHead",
+    "head-info": "/pagesA/active/headInfo",
+    "people-list": "/pagesA/groupBooking/peopleList",
+    "group-detail": "/pagesA/groupBooking/groupDetail",
+    "comment-list": "/pagesA/components/commentList",
+    "no-data": "/components/noData",
+    "shop-bar": "/pagesA/components/shopBar",
+    "goods-spec-popup": "/components/goodsSpecPopup",
+    "goods-card": "/components/goodsCard",
+    "shar-popup": "/pagesA/components/sharePopup",
+    "skeleton": "/pagesA/components/J-skeleton",
+    "fall-com": "/pagesA/components/falls",
+    "exchange-adv": "/components/exchangeAdv/index",
+    "specification": "/pagesA/components/specification"
+  }
+}

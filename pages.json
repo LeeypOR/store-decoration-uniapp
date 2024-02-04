@@ -1,0 +1,381 @@
+{
+	"pages": [
+		{
+			"path": "pages/login/load",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/home/index"
+		},
+		{
+			"path": "pages/shop/shopCart"
+		},
+		{
+			"path": "pages/vipCenter/index"
+		},
+		{	"path": "pages/category/index",
+			"style": {
+				"navigationBarTitleText": "分类"
+			}
+		},
+		{
+			"path": "pages/mine/index",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+
+
+		{
+			"path": "pages/login/index",
+			"style": {
+				"navigationBarTitleText": "登录授权"
+			}
+		},
+		{
+			"path": "pages/home/miniPage",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/webview/webview",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		}
+    ],
+	"subPackages":
+	[
+		{
+			"root": "pagesA",
+			"pages": [
+				{
+					"path": "shop/goodsDetail"
+				},
+				{
+					"path": "mine/myFavorite",
+					"style": {
+						"navigationBarTitleText": "我的收藏"
+					}
+				},
+				{
+					"path": "mine/userInfo",
+					"style": {
+						"navigationBarTitleText": ""
+					}
+				},
+				{
+					"path": "mine/myOrder",
+					"style": {
+						"navigationBarTitleText": "我的订单"
+					}
+				},
+				{
+					"path": "mine/faq",
+					"style": {
+						"navigationBarTitleText": "常见问题"
+					}
+				},
+				{
+					"path": "mine/myWallet",
+					"style": {
+						"navigationBarTitleText": "我的钱包"
+					}
+				},
+				{
+					"path": "mine/changeUserInfo/verifyOldTel",
+					"style": {
+						"navigationBarTitleText": ""
+					}
+				},
+				{
+					"path": "mine/changeUserInfo/verifyNewTel",
+					"style": {
+						"navigationBarTitleText": ""
+					}
+				},
+				{
+					"path": "mine/changeUserInfo/changeNick",
+					"style": {
+						"navigationBarTitleText": "昵称修改"
+					}
+				},
+				{
+					"path": "mine/changeUserInfo/changeName",
+					"style": {
+						"navigationBarTitleText": "姓名修改"
+					}
+				},
+				{
+					"path": "order/orderCenter"
+				},
+                {
+					"path": "order/waitPayment"
+				},
+				{
+					"path": "shop/goodsComment"
+				},
+				{
+					"path":"order/publishComment"
+				},
+				{
+					"path": "order/waitPay"
+				},
+				{
+					"path": "order/groupDetail"
+				},
+				{
+					"path":"shop/logistic"
+				},
+				{
+					"path": "shop/paySuccess"
+				},
+				{
+					"path": "shop/samllPage"
+				},
+				{
+					"path": "shop/manageAddress"
+				},
+				{
+					"path": "shop/addAddress"
+				},
+				{
+					"path": "afterSales/refund"
+				},
+				{
+					"path": "afterSales/refundDetails"
+				},
+				{
+					"path": "afterSales/fillLogistics"
+				},
+				{
+					"path": "afterSales/refundRecord"
+				},
+				{
+					"path": "searchPage/index"
+				},
+				{
+					"path": "shop/businessAddress"
+				},
+				{
+					"path": "myIntegral/index"
+				},
+				{
+					"path": "myIntegral/getPoint"
+				},
+				{
+					"path": "mine/myCoupon"
+				},
+				{
+					"path":"mine/myGift"
+				},
+        {
+            "path" : "couponDetail/couponDetail"
+
+        },
+        {
+					"path":"afterSales/selectServe"
+				}
+        ]
+		},
+		{
+			"root": "pagesB",
+			"pages": [
+				{
+					"path":"myCollage/index"
+				},
+				{
+					"path":"equityCard/index"
+                },
+				{
+					"path":"equityCard/cardCenter"
+				},
+				{
+					"path":"equityCard/cardDetail"
+				},
+				{
+					"path":"search/goodsList"
+				},
+				{
+					"path":"equityCard/disCount"
+				},
+			    {
+			    	"path":"equityCard/buyHistory"
+			    },
+                {
+					"path": "vipCenter/index"
+				},
+				{
+					"path": "halfPrice/index"
+				},
+				{
+					"path":"payMemberCenter/index",
+					"style": {
+						"navigationBarTitleText": "会员空间",
+						"navigationStyle": "custom",
+						"navigationBarTextStyle": "white"
+					}
+				},
+				{
+					"path":"payMemberCenter/detail"
+				},
+				{
+					"path":"memberBuy/index",
+					"style": {
+						"navigationBarTitleText": "购买金勋会员卡",
+						"navigationStyle": "default"
+					}
+				},
+				{
+					"path":"goodsList/index",
+					"style": {}
+				},
+				{
+					"path":"distribution/index"
+				},
+				{
+					"path":"distribution/bank"
+				},
+				{
+					"path":"distribution/drawal"
+				},
+				{
+					"path":"distribution/addBank"
+				},
+				{
+					"path":"distribution/cashoutDetail"
+				},
+				{
+					"path":"distribution/transactionRecord"
+				},
+				{
+					"path":"distribution/bankCashout"
+				},
+				{
+					"path":"distribution/rankBack"
+				},
+				{
+					"path":"distribution/rakebackRecode"
+				},
+				{
+					"path":"articleList/index"
+				},
+				{
+					"path":"infoApply/index"
+				},
+				{
+					"path":"getCoupon/index"
+				}
+			]
+		},
+		{
+			"root": "pagesC",
+			"pages": [
+				{
+					"path":"raffle/index"
+				},
+				{
+					"path":"raffle/goodList"
+				},
+				{
+					"path":"raffle/submitMaterial"
+				},
+				{
+					"path":"raffle/verification"
+				}
+			]
+		},
+		{
+			"root": "pagesD",
+			"pages": [
+				{
+					"path": "registeredDistributor/index"
+				},
+				{
+					"path": "registeredDistributor/verificationCode"
+				},
+				{
+					"path": "registeredDistributor/submmitSuccess"
+				},
+				{
+					"path": "registeredDistributor/userAgreement"
+				},
+				{
+					"path": "registeredDistributor/bankList"
+				},
+				{
+					"path": "addFriend/index"
+				},
+				{
+					"path": "redeemCoupons/redeemCoupons"
+				},
+				{
+					"path": "invoice/addRise"
+				},
+				{
+					"path": "invoice/invoiceManage"
+				},
+				{
+					"path": "invoice/details"
+				},
+				{
+					"path": "invoice/invoiceOrder"
+				},
+				{
+					"path": "invoice/LookRise"
+				},
+        {
+					"path": "exchangeCertificate/index"
+				},
+        {
+					"path": "exchangeZone/index"
+				}
+			]
+		},
+		{
+			"root": "pagesE",
+			"pages": [
+				{
+					"path": "app/payTransfer"
+				}
+			]
+		}
+	],
+	"tabBar": {
+		"color": "#747474",
+		"selectedColor": "#000000",
+		"borderStyle": "white",
+		"backgroundColor": "#ffffff",
+		"list": [
+			{
+				"pagePath": "pages/home/index"
+			},
+			{
+				"pagePath": "pages/category/index"
+			},
+			{
+				"pagePath": "pages/vipCenter/index"
+			},
+			{
+				"pagePath": "pages/shop/shopCart"
+			},
+			{
+				"pagePath": "pages/mine/index"
+			}
+		]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#F8F8F8",
+		"navigationStyle": "custom",
+		"onReachBottomDistance":50
+	},
+	"easycom": {
+		"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+	}
+}

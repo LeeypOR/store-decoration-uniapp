@@ -1,0 +1,15 @@
+{
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-checkbox-group": "/node-modules/uview-ui/components/u-checkbox-group/u-checkbox-group",
+    "u-checkbox": "/node-modules/uview-ui/components/u-checkbox/u-checkbox",
+    "u-number-box": "/node-modules/uview-ui/components/u-number-box/u-number-box",
+    "u-count-down": "/node-modules/uview-ui/components/u-count-down/u-count-down",
+    "fixed-navigation": "/components/fixedNavigation",
+    "goods-spec-popup": "/components/goodsSpecPopup",
+    "guess-you-like": "/components/guessYouLike",
+    "shopcard-skeleton": "/pages/shop/skeleton",
+    "my-tabbar": "/components/myTabbar",
+    "exchange-adv": "/components/exchangeAdv/index"
+  }
+}

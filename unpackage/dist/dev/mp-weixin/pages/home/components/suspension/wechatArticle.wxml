@@ -1,0 +1,1 @@
+<view class="data-v-cb608440"><block wx:if="{{dataInfo.badgeType==4}}"><image style="{{'width:'+($root.m0)+';'+('height:'+($root.m1)+';')}}" src="{{dataInfo.imageUrl}}" mode="aspectFill" data-event-opts="{{[['tap',[['goWXPage',['$0'],['dataInfo.publicLink']]]]]}}" bindtap="__e" class="data-v-cb608440"></image></block></view>

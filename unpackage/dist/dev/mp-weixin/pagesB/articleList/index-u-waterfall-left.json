@@ -1,0 +1,11 @@
+{
+  "component": true,
+  "usingComponents": {
+    "index-u-waterfall-left": "/pagesB/articleList/index-u-waterfall-left",
+    "index-u-waterfall-right": "/pagesB/articleList/index-u-waterfall-right",
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-waterfall": "/node-modules/uview-ui/components/u-waterfall/u-waterfall",
+    "no-data": "/components/noData",
+    "card-list": "/pagesB/articleList/cardList"
+  }
+}

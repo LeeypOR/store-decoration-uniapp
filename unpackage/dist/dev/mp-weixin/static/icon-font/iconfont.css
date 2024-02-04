@@ -1,0 +1,230 @@
+@font-face {
+    font-family: "iconfont"; /* Project id 2546511 */
+    src: url('@/static/icon-font/iconfont.ttf?t=1629708001628') format('truetype');
+  }
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.icon-icon_zhedie:before {
+    content: "\e6ad";
+}
+
+.icon-icon_xiala_zhankai:before {
+    content: "\e6ae";
+}
+
+.icon-icon_zhankai:before {
+    content: "\e6af";
+}
+
+.icon-icon_shouqi:before {
+    content: "\e6b0";
+}
+
+.icon-app_icon_shoucang_moren:before {
+    content: "\e69d";
+}
+
+.icon-app_icon_kefu:before {
+    content: "\e699";
+}
+
+.icon-app_icon_share1:before {
+    content: "\e69a";
+}
+
+.icon-app_icon_shoucang_xuanzhong2:before {
+    content: "\e69b";
+}
+
+.icon-app_icon_gouwuche1:before {
+    content: "\e69c";
+}
+
+.icon-icon_zhibo_gengduo:before {
+    content: "\e694";
+}
+
+.icon-app_icon_shoucang_xuanzhong1:before {
+    content: "\e693";
+}
+
+.icon-home_topbar_icon_search:before {
+    content: "\e60e";
+}
+
+.icon-icon_content_info_like_quantity:before {
+    content: "\e60d";
+}
+
+.icon-icon_test_tuwen:before {
+    content: "\e68e";
+}
+
+.icon-icon_test_pubuliu:before {
+    content: "\e68f";
+}
+
+.icon-icon_pintuan_jiaob_left:before {
+    content: "\e606";
+}
+
+.icon-icon_pintuan_jiaob_right:before {
+    content: "\e607";
+}
+
+.icon-icon_shenglue:before {
+    content: "\e686";
+}
+
+.icon-icon_list_dui:before {
+    content: "\e684";
+}
+
+.icon-app_icon_shoucang_xuanzhong:before {
+    content: "\e682";
+}
+
+.icon-icon_qianshou:before {
+    content: "\e678";
+}
+
+.icon-app_icon_shouhui:before {
+    content: "\e676";
+}
+
+.icon-app_icon_xiala:before {
+    content: "\e677";
+}
+
+.icon-app_icon_gouwuche:before {
+    content: "\e672";
+}
+
+.icon-app_icon_share:before {
+    content: "\e673";
+}
+
+.icon-app_icon_shoucang:before {
+    content: "\e674";
+}
+
+.icon-app_icon_change:before {
+    content: "\e675";
+}
+
+.icon-icon_logistics_ordered:before {
+    content: "\e66e";
+}
+
+.icon-icon_logistics_delivered:before {
+    content: "\e66f";
+}
+
+.icon-icon_logistics_transport:before {
+    content: "\e670";
+}
+
+.icon-sucaizhongxinzuizhongban:before {
+    content: "\e671";
+}
+
+.icon-required:before {
+    content: "\e66b";
+}
+
+.icon-arrow:before {
+    content: "\e656";
+}
+
+.icon-bling:before {
+    content: "\e657";
+}
+
+.icon-closedicon:before {
+    content: "\e658";
+}
+
+.icon-editor:before {
+    content: "\e65a";
+}
+
+.icon-closed:before {
+    content: "\e65b";
+}
+
+.icon-Brandzone:before {
+    content: "\e65c";
+}
+
+.icon-bedroomselect:before {
+    content: "\e65d";
+}
+
+.icon-share:before {
+    content: "\e65e";
+}
+
+.icon-scan:before {
+    content: "\e65f";
+}
+
+.icon-service:before {
+    content: "\e660";
+}
+
+.icon-salesreturn:before {
+    content: "\e661";
+}
+
+.icon-shoppingcart2:before {
+    content: "\e662";
+}
+
+.icon-shop:before {
+    content: "\e663";
+}
+
+.icon-search:before {
+    content: "\e664";
+}
+
+.icon-shoppingcart:before {
+    content: "\e665";
+}
+
+.icon-shoppingcart1:before {
+    content: "\e666";
+}
+
+.icon-bathroombalcony:before {
+    content: "\e667";
+}
+
+.icon-kitchen:before {
+    content: "\e668";
+}
+
+.icon-upload:before {
+    content: "\e669";
+}
+
+.icon-successful:before {
+    content: "\e66a";
+}
+
+.icon-sittingroom:before {
+    content: "\e66c";
+}
+
+.icon-refund:before {
+    content: "\e66d";
+}
+

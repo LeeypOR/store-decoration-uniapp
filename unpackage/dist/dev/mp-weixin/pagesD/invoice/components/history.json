@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "no-data": "/components/noData",
+    "shop-card": "/components/shopCard"
+  }
+}

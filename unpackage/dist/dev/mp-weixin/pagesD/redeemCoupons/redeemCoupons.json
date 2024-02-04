@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-mask": "/node-modules/uview-ui/components/u-mask/u-mask",
+    "vip-popup": "/components/vipPopup"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="data-v-059343cd"><view hidden="{{!(showCanvas)}}" class="warp data-v-059343cd"><canvas style="{{(painterStyle+''+customStyle)}}" canvas-id="k-canvas" class="data-v-059343cd"></canvas></view></view>

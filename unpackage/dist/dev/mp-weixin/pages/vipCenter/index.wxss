@@ -1,0 +1,6 @@
+
+page{
+  background-color: #FAFAFA;
+  padding-bottom: calc(calc(env(safe-area-inset-bottom) / 2) + 110rpx) !important;
+}
+

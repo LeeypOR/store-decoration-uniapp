@@ -1,0 +1,1 @@
+<view style="{{(isFullStyle)}}" class="data-v-ffd9e75e"><u-parse vue-id="fb620256-1" html="{{dataInfo.remark}}" class="data-v-ffd9e75e" bind:__l="__l"></u-parse></view>

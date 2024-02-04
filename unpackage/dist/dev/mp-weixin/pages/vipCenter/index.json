@@ -1,0 +1,20 @@
+{
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-popup": "/node-modules/uview-ui/components/u-popup/u-popup",
+    "fixed-navigation": "/components/fixedNavigation",
+    "vip-popup": "/components/vipPopup",
+    "member-card": "/pages/vipCenter/memberCard",
+    "no-data": "/components/noData",
+    "goods-com": "/pages/home/components/goods/index",
+    "video-module": "/pages/home/components/video/index",
+    "other-goods": "/pages/home/components/otherGoods",
+    "header-swiper": "/pages/home/components/headerSwiper",
+    "small-img": "/pages/home/components/smallImg",
+    "welfare-list": "/components/welfareList",
+    "member-popup": "/pages/vipCenter/memberPopup",
+    "vip-skeleton": "/pages/vipCenter/skeleton",
+    "my-tabbar": "/components/myTabbar",
+    "exchange-adv": "/components/exchangeAdv/index"
+  }
+}

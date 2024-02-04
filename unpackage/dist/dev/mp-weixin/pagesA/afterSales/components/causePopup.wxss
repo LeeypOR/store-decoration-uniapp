@@ -1,0 +1,7 @@
+
+.text-area-class{
+  font-size: 28rpx;
+  color: #999999;
+  font-weight: 400;
+}
+

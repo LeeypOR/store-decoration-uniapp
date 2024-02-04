@@ -1,0 +1,164 @@
+{
+  "pages": [
+    "pages/login/load",
+    "pages/home/index",
+    "pages/shop/shopCart",
+    "pages/vipCenter/index",
+    "pages/category/index",
+    "pages/mine/index",
+    "pages/login/index",
+    "pages/home/miniPage",
+    "pages/webview/webview"
+  ],
+  "subPackages": [
+    {
+      "root": "pagesA",
+      "pages": [
+        "shop/goodsDetail",
+        "mine/myFavorite",
+        "mine/userInfo",
+        "mine/myOrder",
+        "mine/faq",
+        "mine/myWallet",
+        "mine/changeUserInfo/verifyOldTel",
+        "mine/changeUserInfo/verifyNewTel",
+        "mine/changeUserInfo/changeNick",
+        "mine/changeUserInfo/changeName",
+        "order/orderCenter",
+        "order/waitPayment",
+        "shop/goodsComment",
+        "order/publishComment",
+        "order/waitPay",
+        "order/groupDetail",
+        "shop/logistic",
+        "shop/paySuccess",
+        "shop/samllPage",
+        "shop/manageAddress",
+        "shop/addAddress",
+        "afterSales/refund",
+        "afterSales/refundDetails",
+        "afterSales/fillLogistics",
+        "afterSales/refundRecord",
+        "searchPage/index",
+        "shop/businessAddress",
+        "myIntegral/index",
+        "myIntegral/getPoint",
+        "mine/myCoupon",
+        "mine/myGift",
+        "couponDetail/couponDetail",
+        "afterSales/selectServe"
+      ]
+    },
+    {
+      "root": "pagesB",
+      "pages": [
+        "myCollage/index",
+        "equityCard/index",
+        "equityCard/cardCenter",
+        "equityCard/cardDetail",
+        "search/goodsList",
+        "equityCard/disCount",
+        "equityCard/buyHistory",
+        "vipCenter/index",
+        "halfPrice/index",
+        "payMemberCenter/index",
+        "payMemberCenter/detail",
+        "memberBuy/index",
+        "goodsList/index",
+        "distribution/index",
+        "distribution/bank",
+        "distribution/drawal",
+        "distribution/addBank",
+        "distribution/cashoutDetail",
+        "distribution/transactionRecord",
+        "distribution/bankCashout",
+        "distribution/rankBack",
+        "distribution/rakebackRecode",
+        "articleList/index",
+        "infoApply/index",
+        "getCoupon/index"
+      ]
+    },
+    {
+      "root": "pagesC",
+      "pages": [
+        "raffle/index",
+        "raffle/goodList",
+        "raffle/submitMaterial",
+        "raffle/verification"
+      ]
+    },
+    {
+      "root": "pagesD",
+      "pages": [
+        "registeredDistributor/index",
+        "registeredDistributor/verificationCode",
+        "registeredDistributor/submmitSuccess",
+        "registeredDistributor/userAgreement",
+        "registeredDistributor/bankList",
+        "addFriend/index",
+        "redeemCoupons/redeemCoupons",
+        "invoice/addRise",
+        "invoice/invoiceManage",
+        "invoice/details",
+        "invoice/invoiceOrder",
+        "invoice/LookRise",
+        "exchangeCertificate/index",
+        "exchangeZone/index"
+      ]
+    },
+    {
+      "root": "pagesE",
+      "pages": [
+        "app/payTransfer"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#F8F8F8",
+    "navigationStyle": "custom",
+    "onReachBottomDistance": 50
+  },
+  "tabBar": {
+    "color": "#747474",
+    "selectedColor": "#000000",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/home/index"
+      },
+      {
+        "pagePath": "pages/category/index"
+      },
+      {
+        "pagePath": "pages/vipCenter/index"
+      },
+      {
+        "pagePath": "pages/shop/shopCart"
+      },
+      {
+        "pagePath": "pages/mine/index"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "城市定位"
+    }
+  },
+  "plugins": {
+    "live-player-plugin": {
+      "version": "1.3.2",
+      "provider": "wx2b03c6e691cd7370"
+    }
+  },
+  "unpackage": [
+    "dist"
+  ],
+  "lazyCodeLoading": "requiredComponents",
+  "usingComponents": {}
+}

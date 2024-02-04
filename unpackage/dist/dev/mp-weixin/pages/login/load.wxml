@@ -1,0 +1,1 @@
+<view class="wrap data-v-1388d305"><block wx:if="{{!show}}"><image class="logo-img data-v-1388d305" mode="{{imageMode}}" src="{{imageUrl}}"></image></block></view>

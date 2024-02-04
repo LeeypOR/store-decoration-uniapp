@@ -1,0 +1,1 @@
+<view class="integral-inform data-v-1d5b174a"><text class="total-integral data-v-1d5b174a">{{"可用积分值："+total+"积分"}}</text><block wx:if="{{consume}}"><text class="consume-integral data-v-1d5b174a">总计：<block wx:if="{{useMoney}}"><block class="data-v-1d5b174a">{{useMoney+'+'}}</block></block>{{consume+"积分"}}</text></block></view>

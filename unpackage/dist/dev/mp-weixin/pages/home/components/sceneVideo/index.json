@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "video-module": "/pages/home/components/video/index",
+    "hot-area": "/pages/home/components/hotArea/index"
+  }
+}

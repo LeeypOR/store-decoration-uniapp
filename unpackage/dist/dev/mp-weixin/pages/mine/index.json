@@ -1,0 +1,13 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-swiper": "/node-modules/uview-ui/components/u-swiper/u-swiper",
+    "u-badge": "/node-modules/uview-ui/components/u-badge/u-badge",
+    "u-mask": "/node-modules/uview-ui/components/u-mask/u-mask",
+    "advert-popup": "/components/adver/advertPopup",
+    "mine-sekton": "/pages/mine/seketon",
+    "my-tabbar": "/components/myTabbar",
+    "exchange-adv": "/components/exchangeAdv/index"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "trad-success": "/pagesA/components/tradSuccess"
+  }
+}

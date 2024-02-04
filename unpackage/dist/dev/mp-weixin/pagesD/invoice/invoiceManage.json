@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "history": "/pagesD/invoice/components/history",
+    "rise": "/pagesD/invoice/components/rise",
+    "invoice-popup": "/pagesD/invoice/components/invoicePopup"
+  }
+}

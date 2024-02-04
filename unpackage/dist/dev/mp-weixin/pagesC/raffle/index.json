@@ -1,0 +1,13 @@
+{
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-notice-bar": "/node-modules/uview-ui/components/u-notice-bar/u-notice-bar",
+    "u-mask": "/node-modules/uview-ui/components/u-mask/u-mask",
+    "no-data": "/components/noData",
+    "share-popup": "/pagesC/raffle/component/sharePopup",
+    "activity-card": "/pagesC/raffle/component/activityCard",
+    "winning-popup": "/pagesC/raffle/component/winningPopup",
+    "number-popup": "/pagesC/raffle/component/numberPopup",
+    "comfirm-popup": "/pagesC/raffle/component/comfirmPopup"
+  }
+}

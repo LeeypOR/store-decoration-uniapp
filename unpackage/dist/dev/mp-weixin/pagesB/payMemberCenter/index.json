@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "会员空间",
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "no-data": "/components/noData"
+  }
+}

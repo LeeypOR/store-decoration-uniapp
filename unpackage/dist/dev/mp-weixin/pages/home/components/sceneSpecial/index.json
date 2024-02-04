@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "special": "/pages/home/components/sceneSpecial/special",
+    "video-module": "/pages/home/components/video/index",
+    "hot-area": "/pages/home/components/hotArea/index"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "我的收藏",
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-checkbox-group": "/node-modules/uview-ui/components/u-checkbox-group/u-checkbox-group",
+    "u-checkbox": "/node-modules/uview-ui/components/u-checkbox/u-checkbox",
+    "no-data": "/components/noData",
+    "popup": "/pagesA/components/popup"
+  }
+}

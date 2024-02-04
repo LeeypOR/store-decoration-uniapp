@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "img-and-text": "/pages/home/components/navigation/imgAndText"
+  }
+}

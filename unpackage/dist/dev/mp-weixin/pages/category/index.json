@@ -1,0 +1,29 @@
+{
+  "navigationBarTitleText": "分类",
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "header-swiper": "/pages/home/components/headerSwiper",
+    "small-img": "/pages/home/components/smallImg",
+    "title-text": "/pages/home/components/titleText/index",
+    "other-goods": "/pages/home/components/otherGoods",
+    "search": "/pages/home/components/search/index",
+    "goods-com": "/pages/home/components/goods/index",
+    "navigation": "/pages/home/components/navigation/index",
+    "video-module": "/pages/home/components/video/index",
+    "scene-video": "/pages/home/components/sceneVideo/index",
+    "classify-com": "/pages/category/classify",
+    "coupon": "/pages/home/components/coupon/index",
+    "scene-special": "/pages/home/components/sceneSpecial/index",
+    "collage-goods": "/pages/home/components/collageGoods/index",
+    "sec-kill": "/pages/home/components/secondsKill/index",
+    "discount": "/pages/home/components/discount/index",
+    "my-notice": "/pages/home/components/myNotice/index",
+    "magic": "/pages/home/components/magic/index",
+    "divide": "/pages/home/components/divide/index",
+    "parse-text": "/pages/home/components/parseText/index",
+    "official-accounts": "/pages/home/components/officialAccounts/index",
+    "my-tabbar": "/components/myTabbar",
+    "exchange-adv": "/components/exchangeAdv/index",
+    "fixed-navigation": "/components/fixedNavigation"
+  }
+}

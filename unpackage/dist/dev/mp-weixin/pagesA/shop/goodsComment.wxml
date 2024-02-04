@@ -1,0 +1,1 @@
+<view class="data-v-170b699e"><u-navbar class="location-class data-v-170b699e" vue-id="6b3b69b0-1" border-bottom="{{false}}" title="商品评价" title-bold="{{true}}" title-color="#191919" title-size="36" back-icon-color="#000000" bind:__l="__l"></u-navbar><comment-list vue-id="6b3b69b0-2" commentList="{{commentList}}" class="data-v-170b699e" bind:__l="__l"></comment-list></view>

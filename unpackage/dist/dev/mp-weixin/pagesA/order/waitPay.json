@@ -1,0 +1,12 @@
+{
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "invite-friend": "/pagesA/components/inviteFriend",
+    "people-num": "/pagesA/components/peopleNum",
+    "order-info": "/pagesA/components/orderInfo",
+    "trad-success": "/pagesA/components/tradSuccess",
+    "shop-card": "/components/shopCard",
+    "goods-info": "/pagesA/components/goodsInfo",
+    "order-btn": "/components/orderBtn"
+  }
+}

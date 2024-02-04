@@ -1,0 +1,12 @@
+{
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-number-box": "/node-modules/uview-ui/components/u-number-box/u-number-box",
+    "u-popup": "/node-modules/uview-ui/components/u-popup/u-popup",
+    "u-checkbox-group": "/node-modules/uview-ui/components/u-checkbox-group/u-checkbox-group",
+    "u-checkbox": "/node-modules/uview-ui/components/u-checkbox/u-checkbox",
+    "u-select": "/node-modules/uview-ui/components/u-select/u-select",
+    "u-skeleton": "/node-modules/uview-ui/components/u-skeleton/u-skeleton",
+    "integral-inform": "/pagesA/components/integralInform"
+  }
+}

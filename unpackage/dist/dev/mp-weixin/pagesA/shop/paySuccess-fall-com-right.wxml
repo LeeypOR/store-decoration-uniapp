@@ -1,0 +1,1 @@
+<goods-card style="margin-right:22rpx;" vue-id="4f1cc316-4" goodsList="{{right}}" wrapWidth="{{335}}" imgHeight="{{335}}" loading="{{loading}}" class="data-v-0b698820" bind:__l="__l"></goods-card>

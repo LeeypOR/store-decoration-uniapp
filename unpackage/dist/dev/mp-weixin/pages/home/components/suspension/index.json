@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "custom": "/pages/home/components/suspension/custom",
+    "member": "/pages/home/components/suspension/member",
+    "customer-service": "/pages/home/components/suspension/customerService",
+    "wechat-article": "/pages/home/components/suspension/wechatArticle",
+    "avatar": "/pages/home/components/suspension/avatar"
+  }
+}

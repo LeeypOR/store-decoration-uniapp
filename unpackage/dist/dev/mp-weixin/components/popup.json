@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "advert-popup": "/components/adver/advertPopup",
+    "vip-popup": "/components/vipPopup",
+    "exchange-adv": "/components/exchangeAdv/index"
+  }
+}

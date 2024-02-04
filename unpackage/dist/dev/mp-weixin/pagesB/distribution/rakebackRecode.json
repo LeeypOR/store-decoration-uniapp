@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-tabs": "/node-modules/uview-ui/components/u-tabs/u-tabs",
+    "u-popup": "/node-modules/uview-ui/components/u-popup/u-popup",
+    "no-data": "/components/noData"
+  }
+}

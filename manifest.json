@@ -1,0 +1,136 @@
+{
+    "name" : "金桔有品",
+    "appid" : "wxc6ebce156858e28f",
+    "description" : "",
+    "versionName" : "1.0.0",
+    "versionCode" : "100",
+    "transformPx" : false,
+    "app-plus" : {
+        "nvueCompiler" : "uni-app",
+        "compilerVersion" : 3,
+        "popGesture" : "none",
+        "modules" : {
+            "OAuth" : {
+                "weixin" : {
+                    "appid" : "wxd53099e7bb4f4841",
+                    "appsecret" : "1873f836d4a895f624aa711fd50bed37",
+                    "UniversalLinks" : "https://pandaticket.cn/"
+                }
+            },
+            "Payment" : {},
+            "Share" : {},
+            "iBeacon" : {}
+        },
+        "distribute" : {
+            "android" : {
+                "permissions" : [
+                    "<uses-feature android:name=\"android.hardware.camera\"/>",
+                    "<uses-feature android:name=\"android.hardware.camera.autofocus\"/>",
+                    "<uses-permission android:name=\"android.permission.ACCESS_COARSE_LOCATION\"/>",
+                    "<uses-permission android:name=\"android.permission.ACCESS_FINE_LOCATION\"/>",
+                    "<uses-permission android:name=\"android.permission.ACCESS_NETWORK_STATE\"/>",
+                    "<uses-permission android:name=\"android.permission.ACCESS_WIFI_STATE\"/>",
+                    "<uses-permission android:name=\"android.permission.BLUETOOTH\"/>",
+                    "<uses-permission android:name=\"android.permission.BLUETOOTH_ADMIN\"/>",
+                    "<uses-permission android:name=\"android.permission.CALL_PHONE\"/>",
+                    "<uses-permission android:name=\"android.permission.CAMERA\"/>",
+                    "<uses-permission android:name=\"android.permission.CHANGE_NETWORK_STATE\"/>",
+                    "<uses-permission android:name=\"android.permission.CHANGE_WIFI_STATE\"/>",
+                    "<uses-permission android:name=\"android.permission.FLASHLIGHT\"/>",
+                    "<uses-permission android:name=\"android.permission.GET_ACCOUNTS\"/>",
+                    "<uses-permission android:name=\"android.permission.MODIFY_AUDIO_SETTINGS\"/>",
+                    "<uses-permission android:name=\"android.permission.MOUNT_UNMOUNT_FILESYSTEMS\"/>",
+                    "<uses-permission android:name=\"android.permission.READ_CONTACTS\"/>",
+                    "<uses-permission android:name=\"android.permission.READ_LOGS\"/>",
+                    "<uses-permission android:name=\"android.permission.READ_PHONE_STATE\"/>",
+                    "<uses-permission android:name=\"android.permission.RECORD_AUDIO\"/>",
+                    "<uses-permission android:name=\"android.permission.VIBRATE\"/>",
+                    "<uses-permission android:name=\"android.permission.WAKE_LOCK\"/>",
+                    "<uses-permission android:name=\"android.permission.WRITE_CONTACTS\"/>",
+                    "<uses-permission android:name=\"android.permission.WRITE_SETTINGS\"/>",
+                    "<uses-permission android:name=\"android.permission.BLUETOOTH\"/>",
+                    "<uses-permission android:name=\"android.permission.BLUETOOTH_ADMIN\"/>"
+                ]
+            },
+            "ios" : {},
+            "sdkConfigs" : {
+                "ad" : {},
+                "maps" : {},
+                "oauth" : {
+                    "weixin" : {
+                        "appid" : "wxd53099e7bb4f4841",
+                        "appsecret" : "1873f836d4a895f624aa711fd50bed37",
+                        "UniversalLinks" : "https://pandaticket.cn/"
+                    }
+                },
+                "payment" : {
+                    "weixin" : {
+                        "__platform__" : [ "ios", "android" ],
+                        "appid" : "wxd53099e7bb4f4841",
+                        "UniversalLinks" : "https://pandaticket.cn/"
+                    }
+                },
+                "share" : {
+                    "weixin" : {
+                        "appid" : "wxd53099e7bb4f4841",
+                        "UniversalLinks" : "https://pandaticket.cn/"
+                    }
+                }
+            }
+        }
+    },
+    "quickapp" : {},
+    "mp-weixin" : {
+        "appid" : "wxc6ebce156858e28f",
+        "setting" : {
+            "urlCheck" : true,
+            "postcss" : true,
+            "minified" : true,
+            "es6" : true
+        },
+        "permission" : {
+            "scope.userLocation" : {
+                "desc" : "城市定位"
+            }
+        },
+        "plugins" : {
+            "live-player-plugin" : {
+                "version" : "1.3.2",
+                "provider" : "wx2b03c6e691cd7370"
+            }
+        },
+        "optimization" : {
+            "subPackages" : true
+        },
+        "unpackage" : [ "dist" ],
+        "lazyCodeLoading" : "requiredComponents"
+    },
+    "h5" : {
+        "router" : {
+            "mode" : "hash",
+            "base" : "./"
+        },
+        "sdkConfigs" : {
+            "maps" : {}
+        },
+        "title" : "h5测试",
+        "optimization" : {
+            "treeShaking" : {
+                "enable" : true
+            }
+        },
+        "devServer" : {
+            "https" : true
+        },
+        "domain" : "10.0.0.65"
+    },
+    "mp-alipay" : {
+        "appid" : "2021002122626576"
+    },
+    "mp-toutiao" : {
+        "optimization" : {
+            "subPackages" : true
+        },
+        "unpackage" : [ "dist" ]
+    }
+}

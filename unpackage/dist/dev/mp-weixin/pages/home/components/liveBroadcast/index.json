@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "index-u-waterfall-right": "/pages/home/components/liveBroadcast/index-u-waterfall-right",
+    "u-waterfall": "/node-modules/uview-ui/components/u-waterfall/u-waterfall",
+    "good-live": "/pages/home/components/liveBroadcast/components/goodsLive",
+    "common-live": "/pages/home/components/liveBroadcast/components/commonLive"
+  }
+}

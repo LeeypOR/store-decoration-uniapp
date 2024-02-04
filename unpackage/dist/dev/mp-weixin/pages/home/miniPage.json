@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "exchange-adv": "/components/exchangeAdv/index",
+    "my-tabbar": "/components/myTabbar",
+    "config-page": "/pages/home/components/configPage"
+  }
+}

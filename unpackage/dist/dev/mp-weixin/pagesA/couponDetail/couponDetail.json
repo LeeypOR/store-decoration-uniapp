@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-modal": "/node-modules/uview-ui/components/u-modal/u-modal",
+    "skeleton": "/pagesA/components/J-skeleton",
+    "goods-head": "/pagesA/active/goodsHead",
+    "coupon-com": "/pagesA/components/coupon"
+  }
+}

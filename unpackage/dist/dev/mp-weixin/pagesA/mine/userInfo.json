@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-picker": "/node-modules/uview-ui/components/u-picker/u-picker",
+    "u-select": "/node-modules/uview-ui/components/u-select/u-select"
+  }
+}

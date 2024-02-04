@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "take-address": "/pagesA/afterSales/components/takeAddress",
+    "shop-card": "/components/shopCard",
+    "cause-popup": "/pagesA/afterSales/components/causePopup"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "card-com": "/pagesB/equityCard/components/card",
+    "no-data": "/components/noData"
+  }
+}

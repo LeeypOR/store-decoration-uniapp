@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-number-box": "/node-modules/uview-ui/components/u-number-box/u-number-box",
+    "u-mask": "/node-modules/uview-ui/components/u-mask/u-mask",
+    "goods-spec-popup": "/components/goodsSpecPopup"
+  }
+}

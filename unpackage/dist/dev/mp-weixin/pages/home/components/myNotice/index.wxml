@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['jumpToPage',['$0'],['dataInfo']]]]]}}" bindtap="__e" class="data-v-bfe9cf6e"><u-notice-bar vue-id="615871dd-1" list="{{getList}}" bg-color="{{dataInfo.bgColor}}" color="{{dataInfo.color}}" class="data-v-bfe9cf6e" bind:__l="__l"></u-notice-bar></view>

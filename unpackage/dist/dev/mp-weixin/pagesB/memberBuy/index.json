@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "购买金勋会员卡",
+  "navigationStyle": "default",
+  "usingComponents": {
+    "welfare-list": "/components/welfareList",
+    "member-popup": "/pagesB/memberBuy/memberPopup",
+    "member-card": "/pagesB/memberBuy/memberCard"
+  }
+}

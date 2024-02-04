@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "config-page": "/pages/home/components/configPage",
+    "fixed-navigation": "/components/fixedNavigation",
+    "splash-screen": "/components/adver/splashScreen",
+    "popup": "/components/popup",
+    "my-tabbar": "/components/myTabbar",
+    "fresh-slide": "/pages/home/components/freshSlide"
+  }
+}
